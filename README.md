@@ -1,4 +1,5 @@
-NPM Modules : fs, yargs, chalk<br>
+NPM Modules : yargs, chalk, nodemon<br>
+node js module : js
 
 
 # notes-app <br>
